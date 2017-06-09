@@ -7,4 +7,6 @@ TO-DO:
 >replace mod/admin stuff with matrix interface
 > replace post/img with matrix
 
-Keep file mixology?
+> replace sql with matrix API
+
+> Keep file mixology for images?
